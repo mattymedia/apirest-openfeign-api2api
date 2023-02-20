@@ -1,0 +1,4 @@
+INSERT INTO students(full_name, identification_card, phone, email, birth_day) VALUES('Maikol Garzon', '1112487596', '3114878563', 'maikol@email.com', '1989-11-19');
+INSERT INTO students(full_name, identification_card, phone, email, birth_day) VALUES('Luisa Jimenez', '417896542', '3557896425', 'luisa@email.com', '1995-08-11');
+INSERT INTO students(full_name, identification_card, phone, email, birth_day) VALUES('Fabian Rodriguez', '635488944', '3154462359', 'fabian@email.com', '1992-10-09');
+INSERT INTO students(full_name, identification_card, phone, email, birth_day) VALUES('Jhon Marroquin', '3598754132', '3478955245', 'jhon@email.com', '1996-05-22');
